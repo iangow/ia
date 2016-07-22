@@ -1,4 +1,3 @@
-libname home '/home/dtayl';
 libname taq  '/wrds/taq/sasdata';
 libname crsp '/wrds/crsp/sasdata/sd/';
 libname issm '/wrds/issm/sasdata';
